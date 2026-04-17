@@ -34,41 +34,13 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,sql" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🔌 APIs & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=graphql,postman,git,github" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,tailwind,nodejs,express,mongodb,graphql,git,github,postman,vercel" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh026&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh026&layout=compact&theme=radical)
 
