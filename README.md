@@ -1,9 +1,3 @@
-# Hi, I'm Ashutosh 👋
-
-🚀 MCA Student | Full Stack Developer | Aspiring SDET  
-💡 Building AI-powered systems, real-time applications & automation workflows  
-
----
 
 ## 🧠 About Me
 - 🔭 Working on: AI Interview Platform (TalentIQ)
